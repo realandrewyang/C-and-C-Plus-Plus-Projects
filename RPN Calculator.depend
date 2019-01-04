@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1523646537 source:c:\andrew ics4u\rpn calculator\rpnmodule.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cstring>
+	<fstream>
+	"rpnModule.h"
+	<apvector.h>
+	<cmath>
+
+1523646591 source:c:\andrew ics4u\rpn calculator\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<climits>
+	<cmath>
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	"rpnModule.h"
+	"rpnClasses.h"
+
+1523645931 c:\andrew ics4u\rpn calculator\rpnmodule.h
+	"rpnClasses.h"
+	<apvector.h>
+
+1521822059 c:\andrew ics4u\rpn calculator\rpnmodule.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cmath>
+	<cstring>
+	"rpnModule.h"
+
+1521911315 c:\andrew ics4u\rpn calculator\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cmath>
+	<cstring>
+	<apstring.h>
+	<iostream>
+
+1521828895 c:\andrew ics4u\rpn calculator\button.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cstring>
+	"button.h"
+
+1521919584 source:c:\andrew ics4u\rpn calculator\button.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cstring>
+	<apstring.h>
+	"button.h"
+
+1523645921 c:\andrew ics4u\rpn calculator\rpnclasses.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cmath>
+	<cstring>
+	<apstring.h>
+	<iostream>
+
+1523646252 source:c:\andrew ics4u\rpn calculator\rpnclasses.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/mouse.h>
+	<cstring>
+	<apstring.h>
+	<apstring.cpp>
+	"rpnClasses.h"
+	"rpnModule.h"
+
